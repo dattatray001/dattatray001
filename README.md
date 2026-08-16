@@ -1,36 +1,129 @@
-## 👋 About Me
+<p align="center">
+  <img src="./banner.svg" alt="Dattatray Narhe Banner" width="830" />
+</p>
 
-- 🔭 **I’m currently working on:**  
-  Java and Spring Boot backend development, building secure REST APIs with JWT authentication, database integration, and Dockerized applications.
+<p align="center">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/dattatray-narhe-5237aa247" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://medium.com/@Dattatrynarhe" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+</p>
 
-- 👯 **I’m looking to collaborate on:**  
-  Backend or full-stack projects using Java, Spring Boot, REST APIs, and microservices architecture.
-
-- 🤝 **I’m looking for help with:**  
-  System design, cloud-native development, performance optimization, and building production-ready backend systems.
-
-- 🌱 **I’m currently learning:**  
-  Microservices architecture, Docker & DevOps workflows, and cloud fundamentals.
-
-- 💬 **Ask me about:**  
-  Spring Boot, REST API design, JWT authentication, Docker, PostgreSQL, and backend development.
-
-- ⚡ **Fun fact:**  
-  I enjoy simplifying complex backend problems into clean, scalable solutions 🚀
-
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dattatray-narhe-5237aa247) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Dattatrynarhe) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dattatray001&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dattatray001&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dattatray001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<blockquote>
+  <p align="center">
+    <i>"Clean code always looks like it was written by someone who cares." — Michael Feathers</i>
+  </p>
+</blockquote>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dattatray001&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👤 About Me & GitHub Stats
+
+<table>
+  <tr>
+    <td valign="top" width="55%">
+      <h4>👋 Hello, I'm Dattatray!</h4>
+      <p>I am a software engineer specializing in building secure, high-throughput, and scalable RESTful APIs with <b>Java</b> and the <b>Spring Ecosystem</b>. I focus on database tuning, secure JWT authentication, and containerized microservice environments.</p>
+      <ul>
+        <li>🔭 <b>Currently working on:</b> Java & Spring Boot backend services, microservice communications, and security filters.</li>
+        <li>🌱 <b>Currently learning:</b> Advanced Microservices patterns, Kubernetes, and event-driven architecture (Kafka).</li>
+        <li>👯 <b>Looking to collaborate on:</b> Enterprise backend integrations, cloud-native services, and database scaling.</li>
+        <li>🤝 <b>Looking for help with:</b> Cloud infrastructure, DevOps automation, and distributed caching strategies.</li>
+        <li>💬 <b>Ask me about:</b> Java, Spring Boot, Spring Security, RESTful endpoints, Docker, Postgres, and Redis.</li>
+        <li>⚡ <b>Fun fact:</b> I love analyzing slow SQL queries and optimization bottlenecks to squeeze out performance 🚀</li>
+      </ul>
+    </td>
+    <td valign="top" width="45%">
+      <img src="https://github-stats-extended.vercel.app/api?username=dattatray001&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Core Competencies & Architecture Focus
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h5>🛡️ Secure API Design</h5>
+      <p>Implementing stateless JWT token generation, filter chain custom policies, OAuth2 integration, and HTTPS encryption layers in Spring Boot REST APIs.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h5>🐳 Containerization & Cloud Native</h5>
+      <p>Packaging application environments with Docker multi-stage builds, managing multi-container deployments using Compose, and configuring custom health checks.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h5>🗄️ Database Optimization</h5>
+      <p>Structuring relational mappings with Hibernate, managing transactions, optimizing complex SQL queries, index creation, and distributed caching with Redis.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h5>🔄 Microservices & Patterns</h5>
+      <p>Designing decentralized data structures, API Gateways, Service Discovery, configuration centralization, and asynchronous event streams.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 Languages & Frameworks</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+        <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring" />
+        <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🗄️ Databases, DevOps & Tools</h4>
+      <p>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+        <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white" alt="Podman" />
+        <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+        <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black" alt="Tomcat" />
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+        <img src="https://img.shields.io/badge/Antigravity-6DB33F?style=flat-square&logo=google&logoColor=white" alt="Antigravity" />
+        <img src="https://img.shields.io/badge/Claude_Code-CC9866?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=dattatray001&theme=dark&hide_border=false" alt="GitHub Streak" height="170" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dattatray001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="170" />
+</p>
+
+---
